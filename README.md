@@ -1,4 +1,4 @@
-# Capstione-Unsupervised-Customer-Segmentation
+# Capstone-Unsupervised-Customer-Segmentation
 
 
 Problem Description
